@@ -190,8 +190,7 @@ Made with 💻 and ☕ by **Akshat Danve**
 ## 📬 Contact
 
 For questions about this implementation:  
-**Author**: Akshat Danve
-**Student ID**: 23f2001000  
+**Author**: Akshat Amit Danve | **Student ID**: 23f2001000  
 **GitHub**: [@23f2001000](https://github.com/23f2001000)
 
 ---
